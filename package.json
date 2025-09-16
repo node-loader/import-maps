@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/node-loader/node-loader-import-maps.git"
+    "url": "git+https://github.com/node-loader/import-maps.git"
   },
   "engines": {
     "node": ">=20"
@@ -19,9 +19,9 @@
   "author": "Jolyn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/node-loader/node-loader-import-maps/issues"
+    "url": "https://github.com/node-loader/import-maps/issues"
   },
-  "homepage": "https://github.com/node-loader/node-loader-import-maps#readme",
+  "homepage": "https://github.com/node-loader/import-maps#readme",
   "publishConfig": {
     "access": "public"
   },
