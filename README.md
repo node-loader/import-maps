@@ -37,7 +37,7 @@ const messageChannel = new MessageChannel();
 
 global.importMapPort = messageChannel.port1;
 
-register("@node-loader/import-maps", {
+register("@node-loader/import-maps", import.meta.url, {
   data: {
     // optional, provides a way to update the import map later on
     port: messageChannel.port2,
